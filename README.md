@@ -752,7 +752,7 @@ fi
 **Example encryption and decryption**
 
 Encrypt on Windows<br />
-![alt text](https://github.com/billchaison/wincrypt/blob/master/wc0.png)
+![alt text](https://github.com/billchaison/wincrypt/raw/main/wc0.png)
 
 Decrypt on Linux<br />
-![alt text](https://github.com/billchaison/wincrypt/blob/master/wc1.png)
+![alt text](https://github.com/billchaison/wincrypt/raw/main/wc1.png)
